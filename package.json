@@ -77,7 +77,7 @@
     "common-tags": "1.8.0",
     "concurrent-transform": "1.0.0",
     "cypress": "3.1.0",
-    "dependency-check": "3.2.1",
+    "dependency-check": "3.2.0",
     "deps-ok": "1.4.1",
     "eslint": "5.5.0",
     "eslint-plugin-cypress-dev": "1.1.2",
@@ -118,7 +118,7 @@
   "dependencies": {
     "bluebird": "3.5.2",
     "check-more-types": "2.24.0",
-    "debug": "3.2.5",
+    "debug": "4.0.1",
     "docsearch.js": "2.5.2",
     "fira": "github:cypress-io/fira#fb63362742eea8cdce0d90825ab9264d77719e3d",
     "font-awesome": "4.7.0",
